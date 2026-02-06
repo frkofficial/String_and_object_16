@@ -28,7 +28,7 @@ const person = {
     profession:'developer',
     salary:20000,
     married:true
-    'fav palce' : ['sundorban', 'bandarban', 'cox bazar', 'saintmartin']
+    'fav palce': ['sundorban', 'bandarban', 'cox bazar', 'saintmartin']
 
 }
 console.log(person)
